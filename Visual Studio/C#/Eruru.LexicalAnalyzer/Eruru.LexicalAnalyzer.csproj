@@ -5,4 +5,6 @@
 		<Version>1.0.0.1</Version>
 	</PropertyGroup>
 
+	<Import Project="..\Eruru.LexicalAnalyzer For Shared Project\Eruru.LexicalAnalyzer For Shared Project.projitems" Label="Shared" />
+
 </Project>

@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eruru.LexicalAnalyzer", "Er
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CD121AAB-08DD-451D-8A36-B3FFD10507F5}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Eruru.LexicalAnalyzer For Shared Project", "Eruru.LexicalAnalyzer For Shared Project\Eruru.LexicalAnalyzer For Shared Project.shproj", "{2BA9CC8D-79E8-4CC1-8A50-98340E6CF41B}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Eruru.LexicalAnalyzer For Shared Project\Eruru.LexicalAnalyzer For Shared Project.projitems*{2ba9cc8d-79e8-4cc1-8a50-98340e6cf41b}*SharedItemsImports = 13
+		Eruru.LexicalAnalyzer For Shared Project\Eruru.LexicalAnalyzer For Shared Project.projitems*{80b29179-ebf7-4c12-9a78-cdce52e42294}*SharedItemsImports = 5
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
